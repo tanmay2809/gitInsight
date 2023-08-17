@@ -1,4 +1,4 @@
-
+GitInsight
 
 This is a simple web application that allows you to view GitHub statistics for a user.
 The application is built using HTML, CSS, and JavaScript. It utilizes the GitHub API to fetch user data and display various statistics about their repositories and contributions.
